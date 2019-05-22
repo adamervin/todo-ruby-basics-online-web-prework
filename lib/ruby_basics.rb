@@ -8,8 +8,8 @@ def assign_variable(name)
   value = name
 end
 
-def argue(fight =)
-  
+def argue(fight = "I'm right and you are wrong!")
+  return fight
 end
 
 def greeting
