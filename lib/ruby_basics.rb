@@ -23,7 +23,8 @@ def return_a_value(red = "Nice")
 
 end
 
-def last_evaluated_value
+def last_evaluated_value(coder = "Expert")
+  return coder
 
 end
 
