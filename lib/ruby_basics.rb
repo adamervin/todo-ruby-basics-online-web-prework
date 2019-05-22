@@ -12,7 +12,8 @@ def argue(fight = "I'm right and you are wrong!")
   return fight
 end
 
-def greeting
+def greeting(greeting, name)
+  
 
 end
 
