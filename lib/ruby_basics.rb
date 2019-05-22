@@ -13,7 +13,7 @@ def argue(fight = "I'm right and you are wrong!")
 end
 
 def greeting(greeting, name)
-  puts "Hi there," #{greeting} 
+  puts "Hi there," #{greeting}. "Bobby!" #{name} 
 
 end
 
